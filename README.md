@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a nothing
 - 🌱 I’m currently learning everything 🤣
 - 👨‍💻 I’m looking to collaborate with other
-- 🌐 [ankitkumarjat.me](https://ankitkumarjat.me)
+- 🌐 [ankitkumarjat](https://ankit-kumar-jat.github.io/)
 - 📫 Reach me on [@ankit_kumar_jat](https://t.me/Ankit_kumar_jat)
 - ⚡ Fun fact: I love linux
 
