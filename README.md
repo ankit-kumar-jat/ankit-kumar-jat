@@ -4,15 +4,13 @@
 
 ### Hi there, I’m Ankit 👋
 
-- 💻 I’m currently persuing B.TECH in Computer Science and Engineering
-- 🔭 I’m currently working on a nothing
-- 🌱 I’m currently learning everything 🤣
+- 💻 I’m currently working at [Affle](https://affle.com/)
 - 👨‍💻 I’m looking to collaborate with other
-- 🌐 [ankitkumarjat](https://ankit-kumar-jat.github.io/)
+- 🌐 [ankitkumarjat](https://ankitjat.pages.dev/)
 - 📫 Reach me on [@ankit_kumar_jat](https://t.me/Ankit_kumar_jat)
 - ⚡ Fun fact: I love linux
 
-`Life is full of failure But keep learning :)`
+`Life is full of surpise, keep learning :)`
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=ankit-kumar-jat&show_icons=true&theme=radical)
 
